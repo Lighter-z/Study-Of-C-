@@ -21,6 +21,9 @@ void test01(){
 	for (int i = 0; i < 10; i++) {
 		cout << "Êý×é¡¾" << i << "¡¿ = " << array2.getData(i) << endl;
 	}
+	cout << array2[0] << endl;
+	array2[0] = 10;
+	cout << array2[0] << endl;
 }
 
 int main() {

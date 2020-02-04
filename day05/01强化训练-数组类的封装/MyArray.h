@@ -17,6 +17,8 @@ public:
 	int getData(int index);
 	//根据索引设置数据
 	void setData(int index,int value);
+	//[]运算符重载
+	int & operator[](int index);
 
 private:
 	int * pAddress;  //指向真正存储数据的指针

@@ -52,3 +52,8 @@ void MyArray::setData(int index,int value)
 {
 	this->pAddress[index] = value;
 }
+
+int & MyArray::operator[](int index)
+{
+	return this->pAddress[index];
+}
