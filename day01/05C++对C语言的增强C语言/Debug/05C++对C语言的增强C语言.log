@@ -1,0 +1,6 @@
+﻿  main.c
+f:\1.work\1.study\language\c++\test\c++\c++\05c++对c语言的增强c语言\main.c(19): warning C4013: “malloc”未定义；假设外部返回 int
+f:\1.work\1.study\language\c++\test\c++\c++\05c++对c语言的增强c语言\main.c(19): warning C4047: “初始化”:“char *”与“int”的间接级别不同
+f:\1.work\1.study\language\c++\test\c++\c++\05c++对c语言的增强c语言\main.c(29): warning C4101: “p”: 未引用的局部变量
+f:\1.work\1.study\language\c++\test\c++\c++\05c++对c语言的增强c语言\main.c(11): warning C4716: “getRect”: 必须返回一个值
+  05C++对C语言的增强C语言.vcxproj -> F:\1.Work\1.Study\Language\C++\Test\C++\C++\Debug\05C++对C语言的增强C语言.exe
