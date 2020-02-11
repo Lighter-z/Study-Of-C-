@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02string容器", "02string�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03vector容器", "03vector容器\03vector容器.vcxproj", "{2CBA0C3A-A6CD-4C84-A2E2-E88874186CB2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04deque容器", "04deque容器\04deque容器.vcxproj", "{B9E17826-EB55-469D-92F0-809B21B7FAEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{2CBA0C3A-A6CD-4C84-A2E2-E88874186CB2}.Release|x64.Build.0 = Release|x64
 		{2CBA0C3A-A6CD-4C84-A2E2-E88874186CB2}.Release|x86.ActiveCfg = Release|Win32
 		{2CBA0C3A-A6CD-4C84-A2E2-E88874186CB2}.Release|x86.Build.0 = Release|Win32
+		{B9E17826-EB55-469D-92F0-809B21B7FAEB}.Debug|x64.ActiveCfg = Debug|x64
+		{B9E17826-EB55-469D-92F0-809B21B7FAEB}.Debug|x64.Build.0 = Debug|x64
+		{B9E17826-EB55-469D-92F0-809B21B7FAEB}.Debug|x86.ActiveCfg = Debug|Win32
+		{B9E17826-EB55-469D-92F0-809B21B7FAEB}.Debug|x86.Build.0 = Debug|Win32
+		{B9E17826-EB55-469D-92F0-809B21B7FAEB}.Release|x64.ActiveCfg = Release|x64
+		{B9E17826-EB55-469D-92F0-809B21B7FAEB}.Release|x64.Build.0 = Release|x64
+		{B9E17826-EB55-469D-92F0-809B21B7FAEB}.Release|x86.ActiveCfg = Release|Win32
+		{B9E17826-EB55-469D-92F0-809B21B7FAEB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
