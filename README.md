@@ -125,6 +125,68 @@
 [点击查看详情](https://github.com/Lighter-z/Study-Of-Cpp-/tree/master/day06/10%E5%A4%9A%E7%BB%A7%E6%89%BF%E7%9A%84%E6%A6%82%E5%BF%B5%E4%BB%A5%E5%8F%8A%E9%97%AE%E9%A2%98)                                                                                    
 ### 11菱形继承的问题以及解决方案
 [点击查看详情](https://github.com/Lighter-z/Study-Of-Cpp-/tree/master/day06/11%E8%8F%B1%E5%BD%A2%E7%BB%A7%E6%89%BF%E7%9A%84%E9%97%AE%E9%A2%98%E4%BB%A5%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)                                                                                    
-  
+## day07                                                                    
+### 01静态联编与动态联编
+[点击查看详情](https://github.com/Lighter-z/Study-Of-Cpp-/tree/master/day07/01%E9%9D%99%E6%80%81%E8%81%94%E7%BC%96%E4%B8%8E%E5%8A%A8%E6%80%81%E8%81%94%E7%BC%96)                                                                                  
+### 02多态案例-计算器案例
+[点击查看详情](https://github.com/Lighter-z/Study-Of-Cpp-/tree/master/day07/02%E5%A4%9A%E6%80%81%E6%A1%88%E4%BE%8B-%E8%AE%A1%E7%AE%97%E5%99%A8%E6%A1%88%E4%BE%8B)                                                                                    
+### 03虚析构和纯虚析构
+[点击查看详情](https://github.com/Lighter-z/Study-Of-Cpp-/tree/master/day07/03%E8%99%9A%E6%9E%90%E6%9E%84%E5%92%8C%E7%BA%AF%E8%99%9A%E6%9E%90%E6%9E%84)                                                                                    
+### 04多态案例二-PK小游戏
+[点击查看详情](https://github.com/Lighter-z/Study-Of-Cpp-/tree/master/day07/04%E5%A4%9A%E6%80%81%E6%A1%88%E4%BE%8B%E4%BA%8C-PK%E5%B0%8F%E6%B8%B8%E6%88%8F)                                                                                    
+## day08                                                                    
+### 01函数模板的基本用法
+[点击查看详情](https://github.com/Lighter-z/Study-Of-Cpp-/tree/master/day08/01%E5%87%BD%E6%95%B0%E6%A8%A1%E6%9D%BF%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%94%A8%E6%B3%95)                                                                                  
+### 02课堂练习-利用模板实现char和int的数组排序
+[点击查看详情](https://github.com/Lighter-z/Study-Of-Cpp-/tree/master/day08/02%E8%AF%BE%E5%A0%82%E7%BB%83%E4%B9%A0-%E5%88%A9%E7%94%A8%E6%A8%A1%E6%9D%BF%E5%AE%9E%E7%8E%B0char%E5%92%8Cint%E7%9A%84%E6%95%B0%E7%BB%84%E6%8E%92%E5%BA%8F)                                                                                    
+### 03函数模板与普通函数的区别以及调用规则
+[点击查看详情](https://github.com/Lighter-z/Study-Of-Cpp-/tree/master/day08/03%E5%87%BD%E6%95%B0%E6%A8%A1%E6%9D%BF%E4%B8%8E%E6%99%AE%E9%80%9A%E5%87%BD%E6%95%B0%E7%9A%84%E5%8C%BA%E5%88%AB%E4%BB%A5%E5%8F%8A%E8%B0%83%E7%94%A8%E8%A7%84%E5%88%99)                                                                                    
+### 04模板的局限性以及解决
+[点击查看详情](https://github.com/Lighter-z/Study-Of-Cpp-/tree/master/day08/04%E6%A8%A1%E6%9D%BF%E7%9A%84%E5%B1%80%E9%99%90%E6%80%A7%E4%BB%A5%E5%8F%8A%E8%A7%A3%E5%86%B3)                                                                                    
+### 05类模板的基本使用
+[点击查看详情](https://github.com/Lighter-z/Study-Of-Cpp-/tree/master/day08/05%E7%B1%BB%E6%A8%A1%E6%9D%BF%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8)                                                                                    
+### 06类模板做函数的参数
+[点击查看详情](https://github.com/Lighter-z/Study-Of-Cpp-/tree/master/day08/06%E7%B1%BB%E6%A8%A1%E6%9D%BF%E5%81%9A%E5%87%BD%E6%95%B0%E7%9A%84%E5%8F%82%E6%95%B0)                                                                                    
+### 07类模板碰到的继承问题以及解决
+[点击查看详情](https://github.com/Lighter-z/Study-Of-Cpp-/tree/master/day08/07%E7%B1%BB%E6%A8%A1%E6%9D%BF%E7%A2%B0%E5%88%B0%E7%9A%84%E7%BB%A7%E6%89%BF%E9%97%AE%E9%A2%98%E4%BB%A5%E5%8F%8A%E8%A7%A3%E5%86%B3)                                                                                    
+### 08类模板类外实现成员函数
+[点击查看详情](https://github.com/Lighter-z/Study-Of-Cpp-/tree/master/day08/08%E7%B1%BB%E6%A8%A1%E6%9D%BF%E7%B1%BB%E5%A4%96%E5%AE%9E%E7%8E%B0%E6%88%90%E5%91%98%E5%87%BD%E6%95%B0)                                                                                    
+### 09类模板的分文件编写以及解决
+[点击查看详情](https://github.com/Lighter-z/Study-Of-Cpp-/tree/master/day08/09%E7%B1%BB%E6%A8%A1%E6%9D%BF%E7%9A%84%E5%88%86%E6%96%87%E4%BB%B6%E7%BC%96%E5%86%99%E4%BB%A5%E5%8F%8A%E8%A7%A3%E5%86%B3)                                                                                    
+### 10类模板碰到友元函数-类内实现
+[点击查看详情](https://github.com/Lighter-z/Study-Of-Cpp-/tree/master/day08/10%E7%B1%BB%E6%A8%A1%E6%9D%BF%E7%A2%B0%E5%88%B0%E5%8F%8B%E5%85%83%E5%87%BD%E6%95%B0-%E7%B1%BB%E5%86%85%E5%AE%9E%E7%8E%B0)                                                                                    
+### 11类模板碰到友元函数-类外实现
+[点击查看详情](https://github.com/Lighter-z/Study-Of-Cpp-/tree/master/day08/11%E7%B1%BB%E6%A8%A1%E6%9D%BF%E7%A2%B0%E5%88%B0%E5%8F%8B%E5%85%83%E5%87%BD%E6%95%B0-%E7%B1%BB%E5%A4%96%E5%AE%9E%E7%8E%B0)                                                                                    
+### 12类模板应用
+[点击查看详情](https://github.com/Lighter-z/Study-Of-Cpp-/tree/master/day08/12%E7%B1%BB%E6%A8%A1%E6%9D%BF%E5%BA%94%E7%94%A8)                                                                                  
+## day09                                                                    
+### 01类型转换
+[点击查看详情](https://github.com/Lighter-z/Study-Of-Cpp-/tree/master/day09/01%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2)                                                                                  
+### 02异常基本处理
+[点击查看详情](https://github.com/Lighter-z/Study-Of-Cpp-/tree/master/day09/02%E5%BC%82%E5%B8%B8%E5%9F%BA%E6%9C%AC%E5%A4%84%E7%90%86)                                                                                    
+### 03异常变量的生命周期
+[点击查看详情](https://github.com/Lighter-z/Study-Of-Cpp-/tree/master/day09/03%E5%BC%82%E5%B8%B8%E5%8F%98%E9%87%8F%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F)                                                                                    
+### 04异常的多态使用
+[点击查看详情](https://github.com/Lighter-z/Study-Of-Cpp-/tree/master/day09/04%E5%BC%82%E5%B8%B8%E7%9A%84%E5%A4%9A%E6%80%81%E4%BD%BF%E7%94%A8)                                                                                    
+### 05使用系统提供的标准异常
+[点击查看详情](https://github.com/Lighter-z/Study-Of-Cpp-/tree/master/day09/05%E4%BD%BF%E7%94%A8%E7%B3%BB%E7%BB%9F%E6%8F%90%E4%BE%9B%E7%9A%84%E6%A0%87%E5%87%86%E5%BC%82%E5%B8%B8)                                                                                  
+### 06自己编写异常类
+[点击查看详情](https://github.com/Lighter-z/Study-Of-Cpp-/tree/master/day09/06%E8%87%AA%E5%B7%B1%E7%BC%96%E5%86%99%E5%BC%82%E5%B8%B8%E7%B1%BB)                                                                                    
+### 07标准输入流
+[点击查看详情](https://github.com/Lighter-z/Study-Of-Cpp-/tree/master/day09/07%E6%A0%87%E5%87%86%E8%BE%93%E5%85%A5%E6%B5%81)                                                                                    
+### 08标准输出流
+[点击查看详情](https://github.com/Lighter-z/Study-Of-Cpp-/tree/master/day09/08%E6%A0%87%E5%87%86%E8%BE%93%E5%87%BA%E6%B5%81)                                                                                    
+### 09文件的读写操作
+[点击查看详情](https://github.com/Lighter-z/Study-Of-Cpp-/tree/master/day09/09%E6%96%87%E4%BB%B6%E7%9A%84%E8%AF%BB%E5%86%99%E6%93%8D%E4%BD%9C)                                                                                  
+## day10                                                                    
+### 01STL三大组件
+[点击查看详情](https://github.com/Lighter-z/Study-Of-Cpp-/tree/master/day10/01STL%E4%B8%89%E5%A4%A7%E7%BB%84%E4%BB%B6)                                                                                  
+### 02string容器
+[点击查看详情](https://github.com/Lighter-z/Study-Of-Cpp-/tree/master/day10/02string%E5%AE%B9%E5%99%A8)                                                                                    
+### 03vector容器
+[点击查看详情](https://github.com/Lighter-z/Study-Of-Cpp-/tree/master/day10/03vector%E5%AE%B9%E5%99%A8)                                                                                    
+### 04deque容器
+[点击查看详情](https://github.com/Lighter-z/Study-Of-Cpp-/tree/master/day10/04deque%E5%AE%B9%E5%99%A8)                                                                                    
+
 
 
