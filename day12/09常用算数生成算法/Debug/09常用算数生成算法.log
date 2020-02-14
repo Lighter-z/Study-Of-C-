@@ -1,0 +1,6 @@
+﻿  main.cpp
+f:\1.work\1.study\language\c++\test\c++\day12\09常用算数生成算法\main.cpp(72): error C2084: 函数“void test01(void)”已有主体
+  f:\1.work\1.study\language\c++\test\c++\day12\09常用算数生成算法\main.cpp(23): note: 参见“test01”的前一个定义
+f:\1.work\1.study\language\c++\test\c++\day12\09常用算数生成算法\main.cpp(87): error C2084: 函数“int main(void)”已有主体
+  f:\1.work\1.study\language\c++\test\c++\day12\09常用算数生成算法\main.cpp(46): note: 参见“main”的前一个定义
+f:\1.work\1.study\language\c++\test\c++\day12\09常用算数生成算法\main.cpp(89): error C2065: “test01”: 未声明的标识符
